@@ -4,7 +4,7 @@ import axios from "axios";
 
 const Appointment = () => {
   //states
-  const url="http://localhost:3000";
+  const url="https://drishti-portfolio-nu.vercel.app";
   const [email, setEmail] = useState("");
   const [name, setName] = useState("");
   const [subject, setSubject] = useState("");
