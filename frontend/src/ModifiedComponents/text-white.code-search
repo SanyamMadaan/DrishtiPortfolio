@@ -1,0 +1,9 @@
+# Query: text-white
+# ContextLines: 1
+
+1 result - 1 file
+
+My-Portfolio\frontend\src\ModifiedComponents\Home.jsx:
+  7          <>
+  8:         <div className="text-black w-full h-full">
+  9              <Navbar/>
