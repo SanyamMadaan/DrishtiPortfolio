@@ -1,4 +1,4 @@
-import pic from '../Image/pic.jpg'
+import pic2 from '../Image/pic2.jpg'
 
 const About = () => {
     return (
@@ -24,7 +24,7 @@ const About = () => {
 
                 </div>
                 <div className="w-full lg:w-1/2 flex justify-center items-center mt-1 mb-3 lg:mt-0">
-                    <img className="border-2 rounded-full border-purple-500 p-1 w-60 h-60 sm:w-80 sm:h-80 object-cover" src={pic} alt="Profile" />
+                    <img className="border-2 rounded-full border-purple-500 p-1 w-60 h-60 sm:w-80 sm:h-80 " src={pic2} alt="Profile" />
                 </div>
             </div>
         </>

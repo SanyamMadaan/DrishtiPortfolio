@@ -13,7 +13,7 @@ export function Services() {
         Our Services
       </div>
       <br />
-      <div className="mx-5 my-2 grid grid-cols-2 lg:grid-cols-3 text-black">
+      <div className="mx-14 my-2 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 text-black">
         <div className="min-h-min p-4 font-semibold border-2 text-2xl lg:text-3xl m-5   w-72  lg:w-80 lg:min-h-min  border-slate-400 rounded-lg">
         <div className='min-h-min mb-1'>
             <img src={companyRegister}  />
